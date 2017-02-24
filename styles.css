@@ -147,6 +147,33 @@ img .tux-image:hover {
 .card2:hover {
   border-color: #ff99ff;
 }
+a.Linux {
+  display: inline-block;
+  text-indent: -9999px;
+  margin-top: 10px;
+  width: 60px;
+  height: 60px;
+  background-size: 60px 60px;
+  opacity: .8;
+  transition: all .5s;
+}
+a.Mate {
+  background-image: url(images/Mate-logo.png);
+}
+a.Chromium{
+  background-image: url(images/chromium.png);
+}
+a.Debian {
+  background-image: url(images/debian.png);
+}
+ul.linux-list {
+  text-align: center;
+  list-style-type: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
