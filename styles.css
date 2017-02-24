@@ -76,6 +76,13 @@ header.expedi {
   overflow: hidden;
   padding-top: 60px;
 }
+header.hobbiesedi {
+  text-align: center;
+  background: url('images/edinburgh4.JPG') no-repeat fixed center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
 
 header {
   line-height: 1.5;
