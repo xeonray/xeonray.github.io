@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/edinburgh.jpg') no-repeat center;
+  background: url('images/edinburgh.JPG') no-repeat center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -71,7 +71,7 @@ header.scifi {
 }
 header.expedi {
   text-align: center;
-  background: url('images/edinburgh1.jpg') no-repeat center;
+  background: url('images/edinburgh1.JPG') no-repeat center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
