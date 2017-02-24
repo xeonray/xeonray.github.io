@@ -57,28 +57,28 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/edinburgh.JPG') no-repeat fixed center;
+  background: url('images/edinburgh.JPG') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
 header.scifi {
   text-align: center;
-  background: url('images/496826.jpg') no-repeat fixed center;
+  background: url('images/496826.jpg') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
 header.expedi {
   text-align: center;
-  background: url('images/edinburgh1.JPG') no-repeat fixed center;
+  background: url('images/edinburgh1.JPG') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
 header.hobbiesedi {
   text-align: center;
-  background: url('images/edinburgh4.JPG') no-repeat fixed center;
+  background: url('images/edinburgh4.JPG') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
