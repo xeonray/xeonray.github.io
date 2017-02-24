@@ -98,7 +98,7 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(7deg);
 }
-header .tux-image {
+img .tux-image {
   margin-top: 50px;
   width: 180px;
   height: 150px;
@@ -106,7 +106,7 @@ header .tux-image {
   border: 3px solid yellow;
   transition: all .5s;
 }
-header .tux-image:hover {
+img .tux-image:hover {
   transform: scale(1.2) rotate(7deg);
 }
 .tag {
@@ -134,7 +134,19 @@ header .tux-image:hover {
 .card:hover {
   border-color: #ff99ff;
 }
-
+.card2 {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+.card2:hover {
+  border-color: #ff99ff;
+}
 ul.skills {
   padding: 0;
   text-align: center;
